@@ -1,9 +1,9 @@
 import streamlit as st
 import pandas as pd
-from pages.Offline_Help import *
-from pages.Offline_Help import gmap
-from pages.Online_Help import *
-from pages.Statistics import *
+from Offline_Help import *
+from Offline_Help import gmap
+from Online_Help import *
+from Statistics import *
 # from f import * 
 
 # import os
